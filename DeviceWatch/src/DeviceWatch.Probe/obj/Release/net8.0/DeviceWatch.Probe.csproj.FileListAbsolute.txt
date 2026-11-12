@@ -1,0 +1,14 @@
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\obj\Release\net8.0\DeviceWatch.Probe.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\obj\Release\net8.0\DeviceWatch.Probe.AssemblyInfoInputs.cache
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\obj\Release\net8.0\DeviceWatch.Probe.AssemblyInfo.cs
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\obj\Release\net8.0\DeviceWatch.Probe.csproj.CoreCompileInputs.cache
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\bin\Release\net8.0\DeviceWatch.Probe.exe
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\bin\Release\net8.0\DeviceWatch.Probe.deps.json
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\bin\Release\net8.0\DeviceWatch.Probe.runtimeconfig.json
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\bin\Release\net8.0\DeviceWatch.Probe.dll
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\bin\Release\net8.0\DeviceWatch.Probe.pdb
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\obj\Release\net8.0\DeviceWatch.Probe.dll
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\obj\Release\net8.0\refint\DeviceWatch.Probe.dll
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\obj\Release\net8.0\DeviceWatch.Probe.pdb
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\obj\Release\net8.0\DeviceWatch.Probe.genruntimeconfig.cache
+c:\Users\heavy\OneDrive\Desktop\Cursor\DeviceWatch\src\DeviceWatch.Probe\obj\Release\net8.0\ref\DeviceWatch.Probe.dll
